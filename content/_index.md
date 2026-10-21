@@ -2,4 +2,4 @@
 title = "AyushWrites"
 +++
 
-Welcome to my blog!
+Welcome! This is My personal blog. I write here whatever i feel like writing.
