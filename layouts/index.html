@@ -1,0 +1,23 @@
+{{ define "main" }}
+    {{ .Content }}
+
+    <h2>Recent Posts</h2>
+    <hr>
+    {{ $posts := where site.RegularPages "Type" "in" (slice "posts" "post") }}
+    {{ range $posts }}
+    <article class="post">
+        <header class="post__header">
+            <h3><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h3>
+            <p class="post__meta">
+                <span class="date">{{ .Date.Format "2 January 2006" }}</span>
+            </p>
+        </header>
+
+        <section class="post__summary">
+            {{ .Summary }}
+        </section>
+    </article>
+    {{ else }}
+        <p>No posts yet.</p>
+    {{ end }}
+{{ end }}

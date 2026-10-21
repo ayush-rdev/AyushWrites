@@ -4,7 +4,7 @@ draft = false
 title = 'Hello!'
 +++
 
-## I created this blog so that i can share whatever i want to share with people, Where some My posts aren't competing with other posts via algorithm.
+## I created this blog so that i can share whatever i want to share with people, Where My posts aren't competing via algorithm.
 
 '21/10/2026'
 '22:00' 'GMT+5:30'
