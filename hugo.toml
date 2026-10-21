@@ -3,6 +3,8 @@ locale = 'en-us'
 title = 'AyushWrites'
 theme = 'risotto'
 
+sectionPagesMenu = 'main'
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
