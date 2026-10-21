@@ -1,6 +1,6 @@
 {
   // Set this to the name of your project.
-  "name": "test",
+  "name": "ayushwrites",
   // Set this to today's date in YYYY-MM-DD format.
   "compatibility_date": "2026-06-19",
   "build": {
@@ -11,4 +11,3 @@
     "not_found_handling": "404-page"
   }
 }
-

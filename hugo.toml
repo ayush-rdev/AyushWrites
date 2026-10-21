@@ -1,8 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ayushwrites.pages.dev/'
 locale = 'en-us'
-title = "AyushWrites""
-theme = "risotto"
-
+title = 'AyushWrites'
+theme = 'risotto'
 
 [caches]
   [caches.images]
