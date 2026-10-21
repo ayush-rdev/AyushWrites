@@ -15,7 +15,7 @@ HUGO_VERSION=0.168.0
 NODE_VERSION=24.21.0
 
 # Set the build time zone
-TZ=Kolkata/Asia
+TZ=Asia/Kolkata
 
 # Set the build cache directory
 HUGO_CACHEDIR="${PWD}/.cache/hugo"
