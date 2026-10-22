@@ -1,0 +1,24 @@
+{
+  "name": "ayushwrites",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayush-rdev/AyushWrites.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ayush-rdev/AyushWrites/issues"
+  },
+  "homepage": "https://github.com/ayush-rdev/AyushWrites#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.6.1",
+    "postcss": "^8.5.31",
+    "postcss-cli": "^12.0.0",
+    "postcss-import": "^17.0.1"
+  }
+}
