@@ -1,7 +1,7 @@
 baseURL = 'https://ayushwrites.pages.dev/'
 locale = 'en-us'
 title = 'AyushWrites'
-theme = 'risotto'
+theme = 'texify3'
 
 sectionPagesMenu = 'main'
 
